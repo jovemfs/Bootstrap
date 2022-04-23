@@ -23,17 +23,17 @@ body {
 }
 
 .navbar-dark .navbar-nav .nav-link{
-  color: #fff;
+  color: rgb(255, 255, 255);
   padding-top: .8rem;
 }
 
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover{
-  color: #74ec5c
+  color: #c169fc
 }
 
 .home-inner{
-  background-image: url(img/lofi.png);
+  background-image: url(img/ob_6c1656_maxresdefault.jpg);
 }
 
 .caption{
@@ -85,14 +85,14 @@ btn-lg{
   font-size: 1.2rem;
   text-transform: uppercase;
   margin: 1rem;
-  border-color: #fa3838;
-  background-color: #fa3838;
+  border-color: #7917bb;
+  background-color: #7917bb;
   color: white;
 }
 .btn-secondary:hover,
 .btn-secondary:focus {
-  border-color: rgb(255, 123, 47);
-  background-color: rgb(255, 123, 47);
+  border-color: #b648ff;
+  background-color: #b648ff;
   color: white;
 }
 
@@ -101,7 +101,7 @@ btn-lg{
 }
 
 .feature #play, #beats, #forms{
-  color: #ff4949;
+  color: #b648ff;
 }
 
 .heading{

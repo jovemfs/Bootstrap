@@ -9,3 +9,10 @@
 <p>A primeira interface foi desenvolvida com ajuda do tutorial disponibilizado por Drew Ryan no YouTube. Nela organizei algumas informações trazidas sobre os yokais, todas retiradas do site Japão em Foco no artigo "Yokai – As Misteriosas Criaturas do Folclore Japonês", por Silvia Kawanami. Há uma breve explicação com links redirecionáveis no último campo do site, o "Agradecimento e fontes".</p>
 <p>Procurei modificar partes do CSS, mas principalmente mudar as imagens utilizadas e o tema do site. Como o conteúdo principal era yokais, ilustrei alguns deles com imagens encontradas pela internet e explicações já mencionadas no parágrafo anterior. Mudei também a logo do site, além dos botões e a tradução por padrão.</p>
 <p></p>
+
+
+<h2>Lofi Beats</h2>
+
+<a href="https://imgur.com/bNhLdei"><img src="https://i.imgur.com/bNhLdei.png" title="source: imgur.com" /></a>
+
+<p></p>

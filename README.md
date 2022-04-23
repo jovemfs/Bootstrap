@@ -15,4 +15,5 @@
 
 <a href="https://imgur.com/bNhLdei"><img src="https://i.imgur.com/bNhLdei.png" title="source: imgur.com" /></a>
 
-<p></p>
+<p>A segunda interface traz informações sobre o Lofi, gênero que ganhou força durante a pandemia. Nela podemos encontrar botões que te encaminham para a minha playlist pessoal sobre o tema, além de mais informações acerca do mesmo.</p>
+<p>Ela segue o mesmo modelo de desenvolvimento da anterior, com tutoriais modificados e a execução padrão para testar os recursos fornecidos pelo Bootstrap.</p>

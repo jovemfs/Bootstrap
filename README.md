@@ -18,6 +18,9 @@
 <h2>Lofi Beats</h2> -->
 
 <a href="https://imgur.com/bNhLdei"><img src="https://i.imgur.com/bNhLdei.png" title="source: imgur.com" /></a>
+
+![image](https://user-images.githubusercontent.com/59957939/169388774-06d7d45f-fb87-4234-85a7-eef89e4a7381.png)
+
 <!-- 
 <p>A segunda interface traz informações sobre o Lofi, gênero que ganhou força durante a pandemia. Nela podemos encontrar botões que te encaminham para a minha playlist pessoal sobre o tema, além de mais informações acerca do mesmo.</p>
 <p>Ela segue o mesmo modelo de desenvolvimento da anterior, com tutoriais modificados e a execução padrão para testar os recursos fornecidos pelo Bootstrap.</p> -->

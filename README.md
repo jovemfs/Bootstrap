@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/59957939/164299322-385a2a96-af85-444a-987d-a2b48922d93e.png)
 
-![image](https://user-images.githubusercontent.com/59957939/169384095-80a03ba4-9167-45f3-897a-19c7275bef2d.png)
+![image](https://user-images.githubusercontent.com/59957939/169384603-5ea7cf70-5df0-4d89-be8b-94ede1e46d32.png)
 
 
 <!-- <p>A primeira interface foi desenvolvida com ajuda do tutorial disponibilizado por Drew Ryan no YouTube. Nela organizei algumas informações trazidas sobre os yokais, todas retiradas do site Japão em Foco no artigo "Yokai – As Misteriosas Criaturas do Folclore Japonês", por Silvia Kawanami. Há uma breve explicação com links redirecionáveis no último campo do site, o "Agradecimento e fontes".</p>
